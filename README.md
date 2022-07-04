@@ -26,7 +26,7 @@ design class diagram
 
 <실행화면>
 
-class 폴더 내 경로에서 콘솔창에 java BridgeGame 을 입력하여 사용할 수 있음.
+class 폴더 내 경로에서 콘솔창에 java BridgeGame 을 입력하여 실행할 수 있음.
 
 콘솔 방식
 
