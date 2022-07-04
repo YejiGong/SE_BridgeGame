@@ -26,6 +26,8 @@ design class diagram
 
 <실행화면>
 
+class 폴더 내 경로에서 콘솔창에 java BridgeGame 을 입력하여 사용할 수 있음.
+
 콘솔 방식
 
 ![image](https://user-images.githubusercontent.com/87148580/177131889-662f5eb0-55b6-45f7-888f-03265061d69b.png)
